@@ -1,3 +1,9 @@
+var preloader = document.getElementById("loading");
+function myFunction(){
+    preloader.style.display = 'none';
+}
+
+
 burger = document.querySelector('.burger')
 navbar = document.querySelector('.navbar')
 navList = document.querySelector('.nav-list')
