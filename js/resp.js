@@ -4,6 +4,7 @@ function myFunction(){
 }
 
 
+
 burger = document.querySelector('.burger')
 navbar = document.querySelector('.navbar')
 navList = document.querySelector('.nav-list')

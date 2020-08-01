@@ -8,7 +8,9 @@
   height: 100vh;
   background: #fff url('25.gif') no-repeat center;
   z-index: 99999;
+
 }
+
 html{
   scroll-behavior: smooth;
 }
