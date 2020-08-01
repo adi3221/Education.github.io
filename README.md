@@ -1,1 +1,1 @@
-# education.github.io
+# education
