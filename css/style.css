@@ -2,6 +2,13 @@
   margin: 0;
   padding: 0;
 }
+#loading{
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  background: #fff url('25.gif') no-repeat center;
+  z-index: 99999;
+}
 html{
   scroll-behavior: smooth;
 }
